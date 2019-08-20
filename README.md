@@ -1,5 +1,7 @@
 # todo-app
 
+Todo app built with vuejs
+
 ## Project setup
 ```
 yarn install
@@ -24,6 +26,3 @@ yarn run test
 ```
 yarn run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
